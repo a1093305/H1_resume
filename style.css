@@ -1,0 +1,25 @@
+img{display: block;}
+ul{margin:0;}
+li{margin:0; list-style: none;}
+hr{width: 62.5vw; margin:8px auto 16px auto;}
+body{background: #FFFFFF 0% 0% no-repeat padding-box;  margin:0; font-size: 24px;
+    line-height: 36px; font-family:Arial, Helvetica, sans-serif, Simhei}
+.content{margin-bottom: 64px;}
+.titleCN{font-size: 32px; line-height: 48px; font-weight: bold; margin:0 16px 0 0;}
+.titleEN{color: #A00404; vertical-align: top; font-weight: bold;}
+.white{width: 62.5vw; margin:0 auto;}
+.white hr{border:1px solid #000000;}
+.blue{background: #415165 0% 0% no-repeat padding-box; text-align: center; 
+    color: #FFFFFF; padding:24px 0 40px 0;}
+.blue .titleEN{color: #FFFFFF;}
+.blue li{padding-bottom: 8px;}
+.white .verticalLine{border: 1px solid #96A9C4;}
+.verticalLine{border: 1px solid #96A9C4; width: 0; display: inline-block; margin: 0 24px 0 0;}
+.inline{display: inline-block; vertical-align: top; text-align: left;}
+
+#experience li{font-weight: bold; margin-top: 24px;}
+#experience img{width: 100px; height: 100px;}
+#experience p{width: 33.4375vw; font-size: 20px; word-break: break-all; margin: 0}
+
+#contact li{margin-bottom: 24px;}
+#contact img{display: inline; margin: 0 12px; width: 48px; height: 48px;}
